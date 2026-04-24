@@ -64,7 +64,8 @@ static void	ft_best_cost(t_cost cost, t_cost *best_cost)
 		*best_cost = cost;
 }
 
-static void	ft_get_costs(int **stack, size_t *size, int *bound, t_cost *best_cost)
+static void	ft_get_costs(int **stack,
+								size_t *size, int *bound, t_cost *best_cost)
 {
 	t_cost	cost;
 	size_t	i;
