@@ -2,6 +2,8 @@
 
 # Push_swap
 
+![Score: 125/100](https://img.shields.io/badge/Score-125%2F100-00b4ab?style=for-the-badge&logo=42&logoColor=white)
+
 ## Description
 The **Push_swap** project is a highly structured algorithmic challenge from the 42 curriculum. The objective is simple yet complex: you must sort a random list of integers using two stacks (`a` and `b`) and a strictly limited set of instructions, aiming for the lowest possible number of operations.
 
